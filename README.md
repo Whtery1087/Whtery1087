@@ -15,3 +15,7 @@
 
 <br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whtery1087&show_icons=true&theme=dark&locale=en&layout=compact" alt="Whtery1087
 " /></p>
+
+
+
+> README.md Ispirated by Jakub
