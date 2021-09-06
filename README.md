@@ -18,4 +18,4 @@
 
 
 
-> README.md Ispirated by Jakub
+> README.md Ispirated by Jakub (Sorry jakube trochu jsem si to vypučil Mrk Mrk)
