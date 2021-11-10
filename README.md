@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whtery1087</h1>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm Making Websites;I'm Whtery1087" /></a>
+</p>
 <h3 align="center">》🎉Czech Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Whtery1087&label=Profile%20View's&color=3b3b3b&style=plastic" alt="Whtery1087" /> </p>
