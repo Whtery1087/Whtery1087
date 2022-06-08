@@ -1,39 +1,28 @@
 <h1 align="center">Hi 👋, I'm Whtery1087</h1>
+<h3 align="center">Front-end & Back-end Developer</h3>
 
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm Making Websites;I'm Whtery1087" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whtery1087&label=Profile%20views&color=0e75b6&style=flat" alt="whtery1087" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whtery1087" alt="whtery1087" /></a> </p>
+
+- 🔭 I’m currently working on [Heexy.org](https://heexy.org/)
+
+- 🌱 I’m currently learning **Javascript, Typescript,**
+
+- 📫 How to reach me **meloun7@heexy.org**
+
+- ⚡ Fun fact **Have AD/HD**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/meloun7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meloun7d" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/whatery1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="whatery1010" height="30" width="40" /></a>
+<a href="https://instagram.com/meloun7.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloun7.png" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
+<a href="https://discord.gg/khfm44mWCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">》🎉Czech Republic</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Whtery1087&label=Profile%20View's&color=3b3b3b&style=plastic" alt="Whtery1087" /> </p>
-
-<h3 align="center">》🔎My Project Heexy.tk is Search Engine</h3>
-<h3 align="center">》🔴I am 15 Years old</h3></h3>
-<h3 align="center">》🍉My Nickname is : WhaterMeloun7 OR ("MELOUN7")</h3>
-
-<p align="left">
-<a href="https://twitter.com/Meloun7D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympy_js" height="30" width="40" /></a>
-<a href="https://www.instagram.com/meloun7.png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakub200_cz" height="30" width="40" /></a>
-
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  
-  </a> <a href="https://www.w3schools.com/html/" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="node.js" width="40" height="40"/> </a> </a>
-
-<a href="https://www.w3schools.com/nodejs/" target="_blank"> <img src="https://www.itnetwork.cz/images/10733/nodejs/nodejs_logo.png" alt="node.js" width="40" height="40"/> </a> 
-
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="node.js" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="php" width="40" height="40"/> </a> 
-
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a0b9e371c09d15b9a0b48ed84b31ed35/mongodb-atlas.png" alt="php" width="40" height="40"/> </a> 
-
-
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whtery1087&show_icons=true&theme=dark&locale=en&layout=compact" alt="Whtery1087
-" /></p>
-
-
-
-> README.md Ispirated by Jakub (Sorry jakube trochu jsem si to vypučil Mrk Mrk)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whtery1087&show_icons=true&locale=en" alt="whtery1087" /></p>
