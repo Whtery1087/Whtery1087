@@ -1,6 +1,7 @@
 [![MasterHead](https://i.imgur.com/ejqOVq6.gif)](https://heexy.org)
 <h1 align="center">Hi 👋, I'm Whtery1087</h1>
 <h3 align="center">Front-end & Back-end Developer</h3>
+<p align="left"> <img src="https://i.imgur.com/lP8bZ1L.png" alt="meloun7" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whtery1087&label=Profile%20views&color=0e75b6&style=flat" alt="whtery1087" /> </p>
 
@@ -11,8 +12,6 @@
 - 📫 How to reach me **meloun7@heexy.org**
 
 - ⚡ Fun fact **Have AD/HD**
-
-<p align="left"> <img src="https://i.imgur.com/lP8bZ1L.png" alt="meloun7" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
