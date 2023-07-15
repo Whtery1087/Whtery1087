@@ -3,8 +3,8 @@
 [![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+15+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Senior+Developer)](https://link.heexy.org/topsecretmeloun)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=whtery1087&show_icons=true&count_private=true&hide_border=true&title_color=8eff61&icon_color=8eff61&text_color=c9d1d9&bg_color=22272e" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtery1087&layout=compact&hide_border=true&title_color=8eff61&text_color=8eff61&bg_color=22272e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=whtery1087&show_icons=true&count_private=true&hide_border=true&title_color=8eff61&icon_color=8eff61&text_color=c9d1d9&bg_color=00000000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtery1087&layout=compact&hide_border=true&title_color=8eff61&text_color=8eff61&bg_color=00000000" />
 </div>
 
 #
@@ -18,7 +18,7 @@ I am only 15 years old, but I am constantly trying to expand my knowledge and sk
 - 🍉 Senior & Full-stuck web developer
 - ✉️ How to reach me **meloun7@heexy.org**
 
-[![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=22272e&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://link.heexy.org/topsecretmeloun)
+[![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=00000000&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://link.heexy.org/topsecretmeloun)
 # 
 <h3 align="center">Social Media</h3>
 <p align="center">
