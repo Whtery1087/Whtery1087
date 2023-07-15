@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8eff61&height=100&section=header"/>
+<img width=100% src="https://meloun7.is-a.dev/header.svg"/>
 
 [![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+15+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Senior+Developer)](https://link.heexy.org/topsecretmeloun)
 
@@ -32,4 +32,4 @@ I am only 15 years old, but I am constantly trying to expand my knowledge and sk
 
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8eff61&height=120&section=footer"/>
+<img width=100% src="https://meloun7.is-a.dev/footer.svg"/>
