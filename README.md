@@ -12,11 +12,6 @@
 **Hi, I'm Meloun**, an enthusiastic **Czech developer** and Senior developer specializing in **Fullstack web development**. At the age of 7 I discovered my passion for programming and since then **I have been developing for 8 years.**
 
 I am only 15 years old, but I am constantly trying to expand my knowledge and skills. **I'm actively learning new things** and I'm not afraid to dive into new languages and technologies. I work on web development, applications, software and many other projects.
-- 💙 I’m currently working on [Heexy.org](https://heexy.org/)
-- 📚 I’m  Learning: **Typescript, React, Next.js**
-- 🌹 Gentleman and Lonely Programmer
-- 🍉 Senior & Full-stuck web developer
-- ✉️ How to reach me **meloun7@heexy.org**
 
 [![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=22272e&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://link.heexy.org/topsecretmeloun)
 # 
