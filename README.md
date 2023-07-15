@@ -15,7 +15,7 @@ I am only 15 years old, but I am constantly trying to expand my knowledge and sk
 - 💙 I’m currently working on [Heexy.org](https://heexy.org/)
 - 📚 I’m  Learning: **Typescript, React, Next.js**
 - 🌹 Gentleman and Lonely Programmer
-- 🍉 Senior & Full-stuck web developer
+- 🍉 Full-stack web developer
 - ✉️ How to reach me **meloun7@heexy.org**
 
 [![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=00000000&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://link.heexy.org/topsecretmeloun)
