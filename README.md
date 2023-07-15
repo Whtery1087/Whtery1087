@@ -17,17 +17,18 @@ I am only 15 years old, but I am constantly trying to expand my knowledge and sk
 - 🌹 Gentleman
 - ✉️ How to reach me **meloun7@heexy.org**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=22272e&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=22272e&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)]()
+# 
 <h3 align="center">Social Media</h3>
 <p align="center">
-<a href="https://codepen.io/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meloun7" height="30" width="40" /></a>
-<a href="https://twitter.com/meloun7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meloun7d" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18375672/whatery1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375672/whatery1010" height="30" width="40" /></a>
-<a href="https://instagram.com/meloun7.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloun7.png" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
-<a href="https://discord.gg/khfm44mWCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
+  <a href="https://codepen.io/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meloun7" height="30" width="40" /></a>
+  <a href="https://twitter.com/meloun7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meloun7d" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/18375672/whatery1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375672/whatery1010" height="30" width="40" /></a>
+  <a href="https://instagram.com/meloun7.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloun7.png" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
+  <a href="https://discord.gg/khfm44mWCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
 </p>
 
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8eff61&height=120&section=footer"/>
