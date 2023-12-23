@@ -32,7 +32,7 @@ I am only 15 years old, but I am constantly trying to expand my knowledge and sk
   <a href="https://stackoverflow.com/users/15222108/whtery1087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375672/whatery1010" height="30" width="40" /></a>
   <a href="https://instagram.com/meloun7.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloun7.png" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
-  <a href="https://discord.gg/khfm44mWCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
+  <a href="https://discord.gg/uWUQKsm2HU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
 </p>
 
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
