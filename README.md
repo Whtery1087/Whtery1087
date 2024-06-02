@@ -9,7 +9,7 @@
 
 #
 
-Hi, I'm Meloun, an enthusiastic Czech developer and **Full-stack web developer** specializing in **Fullstack web development**. At the age of 7 I discovered my passion for programming and since then I have been developing for 8 years.
+Hi, I'm Meloun, an enthusiastic Czech developer and **Full-stack web developer** specializing in **Fullstack web development**. At the age of 7 I discovered my passion for programming and since then I have been developing for 9 years.
 
 I am only 16 years old, but I am constantly trying to expand my knowledge and skills. **I'm actively learning new things** and I'm not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects.
 - 💙 I’m currently working on [Heexy.org](https://heexy.org/)
