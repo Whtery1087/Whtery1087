@@ -18,12 +18,7 @@ I am only 16 years old, but I am constantly trying to expand my knowledge and sk
 - 🍉 Full-stack web developer
 - ✉️ How to reach me **meloun7@heexy.org**
 
-<!--- SPOTIFY CURRENT PLAY
-&nbsp;<div align="center"><details><summary>What I'm listening to right now:</summary>
-[![Spotify](https://novatorem-git-main-whtery1087.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grwjp0wf6j17974556hpdjkc0)
-</details></div> --->
-
-[![MELOUN7](https://github-readme-activity-graph.vercel.app/graph?username=Whtery1087&bg_color=00000000&color=ffffff&line=8eff61&point=8eff61&area=true&hide_border=true)](https://link.heexy.org/topsecretmeloun)
+[![MELOUN7](https://wakatime.com/share/@MELOUN7/b482f1c5-ecd6-4b0a-b776-3d08a9e79c3c.svg)](https://link.heexy.org/topsecretmeloun)
 # 
 <h3 align="center">Social Media</h3>
 <p align="center">
