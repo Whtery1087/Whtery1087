@@ -1,6 +1,6 @@
 <img width=100% src="https://meloun7.is-a.dev/header.svg"/>
 
-[![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+16+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Fullstack+web+developer%3BWorking%20for%20Heexy.org)](https://link.heexy.org/topsecretmeloun)
+[![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+17+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Fullstack+web+developer%3BWorking%20for%20Heexy.org)](https://link.heexy.org/topsecretmeloun)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=whtery1087&show_icons=true&count_private=true&hide_border=true&title_color=8eff61&icon_color=8eff61&text_color=c9d1d9&bg_color=00000000&hide_title=true" alt="Caroline Barbosa github stats" /> 
@@ -11,7 +11,7 @@
 
 Hi, I'm Meloun, an enthusiastic Czech developer and **Full-stack web developer** specializing in **Fullstack web development**. At the age of 7 I discovered my passion for programming and since then I have been developing for 9 years.
 
-I am only 16 years old, but I am constantly trying to expand my knowledge and skills. **I'm actively learning new things** and I'm not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects.
+I am only 17 years old, but I am constantly trying to expand my knowledge and skills. **I'm actively learning new things** and I'm not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects.
 - 💙 I’m currently working on [Heexy.org](https://heexy.org/)
 - 📚 I’m  Learning: **Typescript, React, Next.js**
 - 🌹 Gentleman and Lonely Programmer
@@ -31,5 +31,4 @@ I am only 16 years old, but I am constantly trying to expand my knowledge and sk
 </p>
 
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
-
 <img width=100% src="https://meloun7.is-a.dev/footer.svg"/>
