@@ -9,17 +9,19 @@
 
 #
 
-Hi, I'm Meloun, an enthusiastic Czech developer and **Full-stack web developer** specializing in **Fullstack web development**. At the age of 7 I discovered my passion for programming and since then I have been developing for 9 years.
+Hi, I'm Meloun, an enthusiastic Czech developer and Full-stack web developer specializing in Fullstack web development. I've been passionate about programming for many years and have been developing for 9 years.
 
-I am only 17 years old, but I am constantly trying to expand my knowledge and skills. **I'm actively learning new things** and I'm not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects.
+I'm constantly striving to expand my knowledge and skills. I'm actively learning new things and not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects. 🚀💻
+<br>
 - 💙 I’m currently working on [Heexy.org](https://heexy.org/)
 - 📚 I’m  Learning: **Typescript, React, Next.js**
-- 🌹 Gentleman and Lonely Programmer
+- 🌹 Lonely Programmer
 - 🍉 Full-stack web developer
 - ✉️ How to reach me **meloun7@heexy.org**
 
 [![MELOUN7](https://wakatime.com/share/@MELOUN7/b482f1c5-ecd6-4b0a-b776-3d08a9e79c3c.svg)](https://link.heexy.org/topsecretmeloun)
 # 
+<!---
 <h3 align="center">Social Media</h3>
 <p align="center">
   <a href="https://codepen.io/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meloun7" height="30" width="40" /></a>
@@ -29,6 +31,6 @@ I am only 17 years old, but I am constantly trying to expand my knowledge and sk
   <a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
   <a href="https://discord.gg/uWUQKsm2HU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
 </p>
-
+-->
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
 <img width=100% src="https://meloun7.is-a.dev/footer.svg"/>
