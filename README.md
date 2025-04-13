@@ -1,6 +1,6 @@
 <img width=100% src="https://meloun7.is-a.dev/header.svg"/>
 
-[![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+17+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Fullstack+web+developer%3BWorking%20for%20Heexy.org)](https://link.heexy.org/topsecretmeloun)
+[![MELOUN7](https://readme-typing-svg.herokuapp.com/?color=8eff61&size=50&center=true&vCenter=true&width=1000&lines=Hi%2C+my+name+is+Meloun%3BI%27m+17+years+old%3BI%27m+from+Czech+Republic%3BI%27m+a+Fullstack+web+developer%3BWorking%20for%20Heexy.org)](https://youtube.com/watch?v=xvFZjo5PgG0)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=whtery1087&show_icons=true&count_private=true&hide_border=true&title_color=8eff61&icon_color=8eff61&text_color=c9d1d9&bg_color=00000000&hide_title=true" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtery1087&layout=compact&hide_border=true&title_color=8eff61&text_color=8eff61&bg_color=00000000" />
@@ -17,7 +17,7 @@ I'm constantly striving to expand my knowledge and skills. I'm actively learning
 - 🍉 Full-stack web developer
 - ✉️ How to reach me **meloun7@heexy.org**
 
-[![MELOUN7](https://wakatime.com/share/@MELOUN7/b482f1c5-ecd6-4b0a-b776-3d08a9e79c3c.svg)](https://link.heexy.org/topsecretmeloun)
+[![MELOUN7](https://wakatime.com/share/@MELOUN7/b482f1c5-ecd6-4b0a-b776-3d08a9e79c3c.svg)](https://youtube.com/watch?v=xvFZjo5PgG0)
 # 
 <!---
 <h3 align="center">Social Media</h3>
