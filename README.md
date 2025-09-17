@@ -11,24 +11,13 @@ Hi, I'm Meloun, an enthusiastic Czech developer and Full-stack web developer spe
 
 I'm constantly striving to expand my knowledge and skills. I'm actively learning new things and not afraid to dive into new languages and technologies. I work on web development, applications, software, and many other projects. 🚀💻
 <br>
-- 💙 I’m currently working on [Heexy.org](https://heexy.org/)
-- 📚 I’m  Learning: **Typescript, React, Next.js**
+- 💙 CEO of [Heexy.org](https://heexy.org/)
+- 📚 9 Years of experience
 - 🌹 Lonely Programmer
 - 🍉 Full-stack web developer
-- ✉️ How to reach me **meloun7@heexy.org**
 
 [![MELOUN7](https://wakatime.com/share/@MELOUN7/a634c886-0fc2-4717-82e1-15b1edb71d9f.svg)](https://youtube.com/watch?v=xvFZjo5PgG0)
 # 
-<!---
-<h3 align="center">Social Media</h3>
-<p align="center">
-  <a href="https://codepen.io/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meloun7" height="30" width="40" /></a>
-  <a href="https://twitter.com/meloun7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meloun7d" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/15222108/whtery1087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18375672/whatery1010" height="30" width="40" /></a>
-  <a href="https://instagram.com/meloun7.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meloun7.png" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/meloun7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meloun7" height="30" width="40" /></a>
-  <a href="https://discord.gg/uWUQKsm2HU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khfm44mWCR" height="30" width="40" /></a>
-</p>
--->
+
 <p align="center">Made with ❤️ in Czech Republic by MELOUN7</p>
 <img width=100% src="https://meloun7.is-a.dev/footer.svg"/>
