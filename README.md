@@ -11,7 +11,7 @@ I'm always eager to learn and stay up to date with new languages, frameworks, an
 - 🌹 Lonely Programmer
 - 🍉 Full-stack web developer
 
-[![MELOUN7](https://wakatime.com/share/@MELOUN7/ee4a7f71-d22f-4931-ba43-338bb7415b95.svg)](https://youtube.com/watch?v=xvFZjo5PgG0)
+[![MELOUN7](https://wakatime.com/share/@MELOUN7/7b2d9e0b-5868-425c-8b3b-612d943f6387.svg)](https://youtube.com/watch?v=xvFZjo5PgG0)
 # 
 <p align="center">Made with ❤️ in Czech Republic by Whtery1087</p>
 <img width=100% src="https://meloun7.is-a.dev/footer.svg"/>
